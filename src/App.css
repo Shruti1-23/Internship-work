@@ -1,0 +1,38 @@
+*{
+  box-sizing:border-box;
+  margin:auto;
+  padding:auto;
+
+
+
+}
+
+body{
+
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height:2.4;
+  background-color: aqua;
+
+
+
+}
+
+h1{
+text-align:center;
+color:black;
+}
+
+p{
+ color:brown;
+
+
+}
+ img{
+
+
+  float:left;
+  padding:right;
+  border: burlywood;
+
+
+ }
